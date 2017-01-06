@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\krrish\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-14671c1172b4b4236440c36249e12706142d999a.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f09358062e6382a3de5cdcaaf63cbc87a06854fa.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-12c5a2ce348e76ceb7bc083b6b1550407b03b464.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-d3d9b5475c5a8a1c6734a8e0386772e20db32d65.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\volley-794e4348737e2d720c49ae36e6a46dd4d5610744.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-4e176842b14f949da0cf6ce6c82dd6e5b41e669e.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-1df079daf00cdee2f205e9269f81a8654d20857d.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-ade3ff6eafd30103824b9b6f157c2d32b625b44b.jar" />
+    </item>
+    <item
+        jar="C:\Users\krrish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\okhttp-3.1.2-c533f79d389d335e58d1c64610eeae63f95d6fcb.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-12720d244f3bbe550d1bc09b3760813484fde94b.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-0abe66de73306471e8a90741c965a8a2948bf9f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\krrish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\okio-1.6.0-e80da404af143ce34d2e3841abcd4ddc7ba55da5.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\design\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-f6985305d26082a497275b09df69e7e2e378ce29.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-fd3861a189b4fcd15a7844b02a457418e90632b4.jar" />
+    </item>
+    <item
+        jar="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\ANdroidtraining_Acad_gild\udacitylearning\MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554\build\intermediates\pre-dexed\debug\classes-7dd424b90d4b915b1e0ad918f1d2f76e7cff86d4.jar" />
+    </item>
+
+</items>

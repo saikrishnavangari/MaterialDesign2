@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/action_refresh" />
+</menu>
+<!-- From: file:/E:/ANdroidtraining_Acad_gild/udacitylearning/MaterialDesign-aaf285f45d2efba8ade2d7a7bac22538a217d554/src/main/res/menu/main.xml -->
